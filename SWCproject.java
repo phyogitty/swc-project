@@ -3,6 +3,7 @@ public class SWCproject {
 		System.out.print("CCSF");
 		System.out.print("Farah");
 		System.out.print("Kathy");
+		System.out.print("Phyo");
 
 	}
 }
